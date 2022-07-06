@@ -12,7 +12,8 @@
 
 2.	**System Content / System Boundaries.**<br/>
 
-  (i)	Public Key Infrastructure (PKI) : Refers to the framework used to protect communication between your website and users. It is also the backbone of scalable   secure communication and authentication.<br/>
+  (i)	Digital certificate :.<br/>
+  (ii)  Library packages such as : crypto.PublicKey, Crypto.Hash, Binascii.
 
 3.	**Interaction (Potential) of the product (with other products and components).**<br/>
 Integration with MDN (Mozilla Developer Network –web platform including html, css, javascript) systems.<br/>
