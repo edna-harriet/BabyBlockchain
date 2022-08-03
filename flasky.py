@@ -26,7 +26,7 @@ class Blockchain:
 
    def proof_of_work(self, previous_proof):
        # miners proof submitted
-       new_proof = 1
+       new_proof =1
        # status of proof of work
        check_proof = False
        while check_proof is False:
